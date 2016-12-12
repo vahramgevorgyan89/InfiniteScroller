@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  InfiniteScroller
 //
-//  Created by Vahram Gevorgyan on 12/12/16.
-//  Copyright © 2016 Vahram Gevorgyan. All rights reserved.
+//  Created by Vahram Gevorgyan on 12/10/16.
+//  Copyright © 2016 gevorgyan. All rights reserved.
 //
 
 import UIKit
