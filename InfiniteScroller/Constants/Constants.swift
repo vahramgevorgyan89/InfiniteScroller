@@ -17,5 +17,7 @@ class Constants {
     static let paginationSizePerPage = 20
     static let networkingHeaders = ["Api-Key": "s4t28xcvj4q7rrpgsea2bgv6"]
     static let baseURL = "https://api.gettyimages.com:443/v3/search/images"
+    /* Maximum number operation that Getty API can handle per second - best performance achieved using this number of concurrent operations
+     */
     static let maxDownloadOperations = 5
 }
